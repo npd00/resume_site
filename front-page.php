@@ -39,11 +39,11 @@
                     <p>
                         Based in Ft. Worth, TX. I am a Data Engineer with a proven track record in designing and
                         maintaining enterprise-scale data pipelines.
-                        Currently driving data innovation at **McLane Company**, processing billions of records to
+                        Currently driving data innovation at McLane Company, processing billions of records to
                         support $40M+ in sales operations.
                     </p>
                     <p>
-                        My passion lies in **Lakehouse Architecture**, **Real-time Analytics**, and building resilient
+                        My passion lies in Lakehouse Architecture, Real-time Analytics, and building resilient
                         infrastructure that empowers business decisions.
                         When I'm not engineering data pipelines, I'm optimizing my Home Lab (Linux VMs, Docker, game
                         servers, Jellyfin, self-hosted AI/web applications), running D&D campaigns, writing fantasy
@@ -69,19 +69,19 @@
                         </div>
                         <div class="timeline-body">
                             <ul>
-                                <li>Designed end-to-end **Azure Data Factory** pipelines ingesting data from Oracle EBS
-                                    & DB2 into **Microsoft Fabric Lakehouses** using Spark.</li>
-                                <li>Supported datasets ranging from small tables to **6 billion+ records**, managing
+                                <li>Designed end-to-end Azure Data Factory pipelines ingesting data from Oracle EBS
+                                    & DB2 into Microsoft Fabric Lakehouses using Spark.</li>
+                                <li>Supported datasets ranging from small tables to 6 billion+ records, managing
                                     daily and hourly ingestion schedules.</li>
                                 <li>Implemented watermark-based incremental loading and upsert logic for efficient
                                     reprocessing.</li>
-                                <li>Architected raw, curated, and semantic layers using **Medallion Architecture**,
-                                    **star schema**, and **snowflake schema** patterns with dimensional modeling best
+                                <li>Architected raw, curated, and semantic layers using Medallion Architecture,
+                                    star schema, and snowflake schema patterns with dimensional modeling best
                                     practices.</li>
                                 <li>Led data engineering efforts as primary technical owner for enterprise tradeshow
-                                    applications supporting **$40M+ in sales** across 110K+ store locations and 80
+                                    applications supporting $40M+ in sales across 110K+ store locations and 80
                                     distribution centers.</li>
-                                <li>Awarded the **212 Award for Innovation** for critical data engineering
+                                <li>Awarded the 212 Award for Innovation for critical data engineering
                                     contributions.</li>
                                 <li>Implemented Type 1 and Type 2 slowly changing dimensions to track historical changes
                                     in master data tables.</li>
@@ -107,7 +107,7 @@
                         </div>
                         <div class="timeline-body">
                             <ul>
-                                <li>Developed data-driven applications using **Azure Synapse**, **Databricks**, SQL, and
+                                <li>Developed data-driven applications using Azure Synapse, Databricks, SQL, and
                                     Python.</li>
                                 <li>Transitioned legacy reporting workflows to cloud-based analytics platforms.</li>
                                 <li>Partnered with stakeholders to deliver solutions for finance and operational
@@ -157,9 +157,9 @@
                     <ul class="skill-list">
                         <li>Microsoft Fabric</li>
                         <li>Azure Data Factory</li>
-                        <li>Apache Spark / Databricks</li>
+                        <li>Apache Spark</li>
                         <li>Azure Synapse</li>
-                        <li>Power BI</li>
+                        <li>Databricks</li>
                     </ul>
                 </div>
                 <div class="skill-category">
@@ -285,12 +285,12 @@
             <h3 style="color: var(--neon-cyan); margin-bottom: 20px; font-family: var(--font-heading);">Creative
                 Projects</h3>
             <ul style="color: var(--text-secondary); margin-bottom: 30px; list-style-type: none; padding-left: 0;">
-                <li style="margin-bottom: 10px; padding-left: 20px; border-left: 2px solid var(--neon-pink);">**Tabletop
-                    RPG Storytelling**: Active D&D player and campaign notetaker, crafting extensively detailed
+                <li style="margin-bottom: 10px; padding-left: 20px; border-left: 2px solid var(--neon-pink);">Tabletop
+                    RPG Storytelling: Active D&D player and campaign notetaker, crafting extensively detailed
                     character backstories (20+ pages) focused on narrative continuity, character relationships, and
                     world-building integration</li>
-                <li style="margin-bottom: 10px; padding-left: 20px; border-left: 2px solid var(--neon-pink);">**Creative
-                    Writing**: Fantasy narrative development with emphasis on complex character relationships and
+                <li style="margin-bottom: 10px; padding-left: 20px; border-left: 2px solid var(--neon-pink);">Creative
+                    Writing: Fantasy narrative development with emphasis on complex character relationships and
                     multi-generational storytelling</li>
             </ul>
 
@@ -298,7 +298,7 @@
             </h3>
             <ul style="color: var(--text-secondary); margin-bottom: 30px; list-style-type: none; padding-left: 0;">
                 <li style="margin-bottom: 10px; padding-left: 20px; border-left: 2px solid var(--neon-green);">Built and
-                    maintain npdfw.com using AI-assisted development workflows (Anthropic Claude) for rapid prototyping
+                    maintain npdfw.com using AI-assisted development workflows for rapid prototyping
                     and iteration</li>
             </ul>
         </div>
