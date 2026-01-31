@@ -1,13 +1,13 @@
 /*
-Theme Name: Cyberpunk Resume
-Theme URI: https://npdfw.com
+Theme Name: Resume Site
+Theme URI: https://github.com/npd00/resume_site
 Author: Nathanael Dunning
-Author URI: https://dunning.me
-Description: A Cyberpunk Neon resume theme for Data Engineers.
-Version: 1.1
-License: MIT
-License URI: https://opensource.org/licenses/MIT
-Text Domain: cyberpunk-resume
+Author URI: https://npdfw.com
+Description: A single-page resume theme for WordPress
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: resume-site
 */
 
 :root {
@@ -297,7 +297,8 @@ ul {
 .btn-sm {
     padding: 8px 15px;
     font-size: 0.8rem;
-    margin-top: 15px;
+    margin-top: auto;
+    align-self: flex-start;
     display: inline-block;
 }
 
@@ -529,8 +530,21 @@ ul {
 .project-card {
     background: linear-gradient(180deg, rgba(17, 34, 64, 0.8) 0%, rgba(10, 10, 25, 0.8) 100%);
     border: 1px solid rgba(0, 243, 255, 0.1);
+    border: 1px solid rgba(0, 243, 255, 0.1);
     padding: 30px;
     transition: var(--transition);
+    display: flex;
+    flex-direction: column;
+}
+
+.project-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.project-desc {
+    margin-bottom: 20px;
 }
 
 .edu-card:hover,
