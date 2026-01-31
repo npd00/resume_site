@@ -294,6 +294,13 @@ ul {
     clip-path: polygon(10% 0, 100% 0, 100% 70%, 90% 100%, 0 100%, 0 30%);
 }
 
+.btn-sm {
+    padding: 8px 15px;
+    font-size: 0.8rem;
+    margin-top: 15px;
+    display: inline-block;
+}
+
 .btn-primary {
     background-color: var(--neon-cyan);
     color: #000;

@@ -26,6 +26,8 @@
                     <li><a href="#about" data-text="About">About</a></li>
                     <li><a href="#experience" data-text="Experience">Experience</a></li>
                     <li><a href="#skills" data-text="Skills">Skills</a></li>
+                    <li><a href="#projects" data-text="Projects">Projects</a></li>
+                    <li><a href="#education" data-text="Education">Education</a></li>
                     <li><a href="#leadership" data-text="Leadership">Leadership</a></li>
                     <li><a href="#systems" data-text="Systems">Systems</a></li>
                     <li><a href="#contact" data-text="Contact">Contact</a></li>

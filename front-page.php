@@ -158,8 +158,9 @@
                         <li>Microsoft Fabric</li>
                         <li>Azure Data Factory</li>
                         <li>Apache Spark</li>
-                        <li>Azure Synapse</li>
                         <li>Databricks</li>
+                        <li>Azure Synapse</li>
+                        <li>Power BI</li>
                     </ul>
                 </div>
                 <div class="skill-category">
@@ -168,6 +169,9 @@
                         <li>Python (pandas, PySpark, requests, scikit-learn, XGBoost)</li>
                         <li>SQL (Complex Joins, CTEs, Window Functions)</li>
                         <li>Spark SQL</li>
+                        <li>Oracle SQL</li>
+                        <li>IBM DB2 SQL</li>
+                        <li>Microsoft SQL</li>
                     </ul>
                 </div>
                 <div class="skill-category">
@@ -176,6 +180,7 @@
                         <li>Microsoft Azure (Primary)</li>
                         <li>AWS / GCP (Familiar)</li>
                         <li>Docker</li>
+                        <li>Linux</li>
                     </ul>
                 </div>
                 <div class="skill-category">
@@ -183,9 +188,10 @@
                     <ul class="skill-list">
                         <li>Lakehouse Architecture</li>
                         <li>Medallion Architecture</li>
-                        <li>Dimensional Modeling (Star Schema, Snowflake Schema, SCD Type 1/2)</li>
-                        <li>Incremental Loading (Watermark-based)</li>
-                        <li>Partitioning Strategies (Date-based optimization)</li>
+                        <li>Dimensional Modeling (Star Schema, Snowflake Schema, SCD)</li>
+                        <li>Incremental Loading</li>
+                        <li>Watermark Based Data Pipelines</li>
+                        <li>Partitioning Strategies</li>
                     </ul>
                 </div>
                 <div class="skill-category">
@@ -193,6 +199,7 @@
                     <ul class="skill-list">
                         <li>Schema Validation</li>
                         <li>Row Count Reconciliation</li>
+                        <li>Summation Reconciliation</li>
                         <li>Null Checks / Duplicates</li>
                         <li>Data Profiling</li>
                         <li>Manual QA Workflows</li>
@@ -210,9 +217,59 @@
         </div>
     </section>
 
+    <section id="projects" class="section">
+        <div class="container">
+            <h2 class="section-title"><span class="hash">04.</span> Code Repositories</h2>
+            <div class="projects-grid">
+                <!-- Project 1: MTG Data Enrichment -->
+                <article class="project-card">
+                    <div class="project-content">
+                        <h3>MTG Data Enrichment</h3>
+                        <p class="project-date"> Google Colab / Python / Data Enrichment</p>
+                        <p class="project-desc">Data enrichment pipeline for Magic: The Gathering card collection data.
+                        </p>
+                        <a href="https://github.com/npd00/mtg_data_enrichment" target="_blank"
+                            class="btn btn-outline btn-sm">View Code</a>
+                    </div>
+                </article>
+                <!-- Project 2: Resume Site -->
+                <article class="project-card">
+                    <div class="project-content">
+                        <h3>Resume Site</h3>
+                        <p class="project-date">Wordpress / PHP</p>
+                        <p class="project-desc">Source code for this resume website project.</p>
+                        <a href="https://github.com/npd00/resume_site" target="_blank"
+                            class="btn btn-outline btn-sm">View Code</a>
+                    </div>
+                </article>
+                <!-- Project 3: DnD Character Gen -->
+                <article class="project-card">
+                    <div class="project-content">
+                        <h3>DnD 2024 Character Generator</h3>
+                        <p class="project-date">Google Colab / Python / HTML / CSS</p>
+                        <p class="project-desc">1st level character sheet generator for Dungeons & Dragons using 2024
+                            rules.</p>
+                        <a href="https://github.com/npd00/dnd_2024_character_sheet_generator" target="_blank"
+                            class="btn btn-outline btn-sm">View Code</a>
+                    </div>
+                </article>
+                <!-- Project 4: Anime Discovery -->
+                <article class="project-card">
+                    <div class="project-content">
+                        <h3>Anime Discovery Engine</h3>
+                        <p class="project-date">Google Colab / Python / SQL / Database Design</p>
+                        <p class="project-desc">Recommendation engine for discovering new anime titles.</p>
+                        <a href="https://github.com/npd00/anime_discovery_engine" target="_blank"
+                            class="btn btn-outline btn-sm">View Code</a>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
+
     <section id="education" class="section">
         <div class="container">
-            <h2 class="section-title"><span class="hash">04.</span> Education Database</h2>
+            <h2 class="section-title"><span class="hash">05.</span> Education Database</h2>
             <div class="education-grid">
                 <div class="edu-card">
                     <h3>BBA, Business Computer Information Systems</h3>
@@ -230,7 +287,7 @@
 
     <section id="leadership" class="section">
         <div class="container">
-            <h2 class="section-title"><span class="hash">05.</span> Leadership Protocols</h2>
+            <h2 class="section-title"><span class="hash">06.</span> Leadership Protocols</h2>
             <div class="projects-grid">
                 <article class="project-card">
                     <div class="project-content">
@@ -261,7 +318,7 @@
 
     <section id="systems" class="section">
         <div class="container">
-            <h2 class="section-title"><span class="hash">06.</span> Personal Systems</h2>
+            <h2 class="section-title"><span class="hash">07.</span> Personal Systems</h2>
 
             <h3 style="color: var(--neon-cyan); margin-bottom: 20px; font-family: var(--font-heading);">Home Lab
                 Infrastructure</h3>
@@ -306,7 +363,7 @@
 
     <section id="contact" class="section">
         <div class="container center-text">
-            <h2 class="section-title center-margin"><span class="hash">07.</span> Establish Connection</h2>
+            <h2 class="section-title center-margin"><span class="hash">08.</span> Establish Connection</h2>
             <h1 class="big-title">Get In Touch</h1>
             <p class="contact-desc">
                 Open to Remote & Relocation opportunities.
